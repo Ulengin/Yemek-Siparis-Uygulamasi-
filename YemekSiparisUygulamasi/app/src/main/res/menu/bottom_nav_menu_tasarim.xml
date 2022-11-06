@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/ev_icon"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/yemekListeFragment"
+        android:icon="@drawable/yemek_icon"
+        android:title="Yemekler" />
+    <item
+        android:id="@+id/sepetFragment"
+        android:icon="@drawable/sepet_icon"
+        android:title="Sepetim" />
+</menu>
